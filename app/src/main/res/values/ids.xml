@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtText" type="id" />
+    <item name="btnText" type="id" />
+    <item name="getReturn" type="id" />
+    <item name="showText" type="id" />
+    <item name="btnReturn" type="id" />
+</resources>
